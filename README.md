@@ -40,7 +40,7 @@ runners or pre-loaders. For example, you can use
 [Zeus](https://github.com/burke/zeus) together with the following:
 
 ```vim
-let g:busted_command = "Dispatch zeus busted {spec}"
+let g:busted_command = "busted {spec} --language=fr"
 ```
 
 ## License
